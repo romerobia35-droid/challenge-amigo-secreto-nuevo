@@ -10,7 +10,7 @@ Este es un desafio del juego de Amigo Secreto desarrollado en JavaScript, HTML y
 ## Tecnologías Utilizadas
 - **HTML5:** Para la estructura de la página. ✌
 - **CSS3:** Para el estilo y diseño.
-- **JavaScript:** Para la lógica del juego.
+- **JavaScript:** Para la lógica del juego.❤
 
 ## Cómo Jugar
 1. Escribe el nombre de un amigo en el campo de texto.
